@@ -1,0 +1,13 @@
+Base: inmet_sp_mg_mensal.csv (separador ";" e decimal ",")
+
+Fonte original: INMET - Instituto Nacional de Meteorologia
+Dados históricos horários das estações meteorológicas automáticas
+https://portal.inmet.gov.br/dadoshistoricos
+
+Consolidação mensal (SP e MG, 2020 a out/2026) do repositório público "analiseclimatica":
+https://github.com/esthelaalmeida2025-rgb/analiseclimatica
+Arquivo: docs/inmet_sp_mg_mensal.csv
+Baixado em: 16/11/2026
+
+No notebook são usadas apenas as estações do estado de São Paulo.
+A base não contém dados pessoais.

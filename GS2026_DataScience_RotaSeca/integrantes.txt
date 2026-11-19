@@ -1,0 +1,7 @@
+FIAP - Global Solution 2026.2 - CitizenTech
+Disciplina: Data Science & Statistical Computing
+Projeto: Rota Seca
+
+Integrantes:
+Felipe Bernardes - RM 564360
+Guilherme Romero - RM 564431
